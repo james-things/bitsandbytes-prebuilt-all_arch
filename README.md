@@ -10,11 +10,11 @@ I am not sure that there is any point to the WSL .so, however learning to build 
 
 To use this with the SD Dreambooth Extension for Automatic's WebUI on Windows: 
 
-*Navigate to ```<sd-install>\extensions\sd_dreambooth_extension\bitsandbytes_windows```
-*Place the dll file from this repository alongside the other dll file, such that ```libbitsandbytes_cudaall.dll``` is in the same folder as ```libbitsandbytes_cuda116.dll```
-*Open ```main.py``` in the same folder and find line 118: ```    return "libbitsandbytes_cuda116.dll"            ```
-*Replace it with: ```    return "libbitsandbytes_cudaall.dll"            ```
-*Fully restart your SD and you should be in business! If in doubt about settings to not go OOM, check the screen cap below, they are printed out.
+* Navigate to ```<sd-install>\extensions\sd_dreambooth_extension\bitsandbytes_windows```
+* Place the dll file from this repository alongside the other dll file, such that ```libbitsandbytes_cudaall.dll``` is in the same folder as ```libbitsandbytes_cuda116.dll```
+* Open ```main.py``` in the same folder and find line 118: ```    return "libbitsandbytes_cuda116.dll"            ```
+* Replace it with: ```    return "libbitsandbytes_cudaall.dll"            ```
+* Fully restart your SD and you should be in business! If in doubt about settings to not go OOM, check the screen cap below, they are printed out.
 
 *Note: To be clear, the purpose of this dll is to be able to use bitsandbytes under Windows running Pascal and potentially other architecture cards.*
 
