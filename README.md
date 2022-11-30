@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains builds of the bitsandbytes library compiled with the "all" option for GPU architecture support. They are useful if you are running into issues running bitsandbytes on older Nvidia GPUs. In theory, support exists for Kepler, Maxwell, Pascal, Volta, and newer GPUs. This was build and tested on Pascal however, so no guarantees.
+This repository contains builds of the bitsandbytes library compiled with the "all" option for GPU architecture support. They are useful if you are running into issues running bitsandbytes on older Nvidia GPUs. In theory, support exists for Kepler, Maxwell, Pascal, Volta, and newer GPUs. This was built and tested on Pascal however, so no guarantees.
 
 I am not sure that there is any point to the WSL .so, however learning to build it was useful. Please see the credit below with regard to the Windows build; while I toiled over this for a while, the user below provided the method and CMake scripts. Hopefully this compiled dll saves someone else many hours of fighting with dependencies and scouring the internet for information!
 
