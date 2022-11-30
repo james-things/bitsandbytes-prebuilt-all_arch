@@ -18,7 +18,7 @@ To use this with the SD Dreambooth Extension for Automatic's WebUI on Windows:
 
 I do not plan to actively maintain this repository long-term, but for now, please raise an issue if these steps fail for you on a Pascal card under Windows and I will look into it! :)
 
-*Note: To be clear, the purpose of this dll is to be able to use bitsandbytes under Windows running Pascal and potentially other architecture cards.*
+*Note: To be clear, the purpose of this dll is to be able to use bitsandbytes under Windows running Pascal and potentially other architecture cards. Bitsandbytes is a library that enables memory-efficient optimizations such that you can train on less than cutting-edge levels of VRAM.*
 
 ## Training Dreambooth on 1080Ti under Windows! 
 
