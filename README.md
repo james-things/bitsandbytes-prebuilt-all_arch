@@ -24,6 +24,12 @@ I do not plan to actively maintain this repository long-term, but for now, pleas
 
 ![working-finally](https://user-images.githubusercontent.com/71165873/204723173-d16ea596-ad84-4403-a375-7dea895a31ae.png)
 
+## About Bitsandbytes
+
+For more information about the bitsandbytes library please visit the active project.
+
+https://github.com/TimDettmers/bitsandbytes
+
 ## Windows Build Credit 
 
 Thank you to this gracious github user who provided CMake scripts that finally unblocked things on this: https://github.com/TimDettmers/bitsandbytes/issues/30#issuecomment-1330951753
