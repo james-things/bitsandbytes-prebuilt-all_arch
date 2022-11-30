@@ -16,6 +16,8 @@ To use this with the SD Dreambooth Extension for Automatic's WebUI on Windows:
 * Replace it with: ```    return "libbitsandbytes_cudaall.dll"            ```
 * Fully restart your SD and you should be in business! If in doubt about settings to not go OOM, check the screen cap below, they are printed out.
 
+I do not plan to actively maintain this repository long-term, but for now, please raise an issue if these steps fail for you on a Pascal card under Windows and I will look into it! :)
+
 *Note: To be clear, the purpose of this dll is to be able to use bitsandbytes under Windows running Pascal and potentially other architecture cards.*
 
 ## Training Dreambooth on 1080Ti under Windows! 
