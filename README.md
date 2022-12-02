@@ -13,7 +13,7 @@ To use this with the SD Dreambooth Extension for Automatic's WebUI on Windows:
 * Navigate to ```<sd-install>\extensions\sd_dreambooth_extension\bitsandbytes_windows```
 * Place the dll file from this repository alongside the other dll file, such that ```libbitsandbytes_cudaall.dll``` is in the same folder as ```libbitsandbytes_cuda116.dll```
 * Open ```main.py``` in the same folder and find line 118: ```    return "libbitsandbytes_cuda116.dll"            ```
-* Replace it with: ```    return "libbitsandbytes_cudaall.dll"            ```
+* Replace it with: ```    return "libbitsandbytes_cudaall.dll"            ```, making sure to preserve the indentation
 * Fully restart your SD and you should be in business! If in doubt about settings to not go OOM, check the screen cap below, they are printed out.
 
 I do not plan to actively maintain this repository long-term, but for now, please raise an issue if these steps fail for you on a Pascal card under Windows and I will look into it! :)
