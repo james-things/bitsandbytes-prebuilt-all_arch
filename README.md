@@ -26,10 +26,10 @@ I do not plan to actively maintain this repository long-term, but for now, pleas
 
 ## About Bitsandbytes
 
-For more information about the bitsandbytes library please visit the active project.
+For more information about the bitsandbytes library please visit the active project:
 
 https://github.com/TimDettmers/bitsandbytes
 
 ## Windows Build Credit 
 
-Thank you to gracious github user [centerionware](https://github.com/centerionware) who provided CMake scripts that finally unblocked things on this: https://github.com/TimDettmers/bitsandbytes/issues/30#issuecomment-1330951753
+Thank you to gracious github user [centerionware](https://github.com/centerionware) who provided CMake scripts that finally solved things on this: https://github.com/TimDettmers/bitsandbytes/issues/30#issuecomment-1330951753
