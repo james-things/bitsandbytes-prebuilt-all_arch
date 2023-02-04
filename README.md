@@ -1,4 +1,8 @@
-# bitsandbytes-prebuilt-all_arch (0.35.0)
+# bitsandbytes-prebuilt-all_arch
+
+## Update (2/3/23)
+
+I have added an experimental build of 0.37.0, but I have not had a chance to test it out yet. Feel free to open an issue and let me know either way. :)
 
 ## About
 
