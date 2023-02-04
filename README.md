@@ -2,7 +2,7 @@
 
 ## Update (2/3/23)
 
-I have added an experimental build of 0.37.0, but I have not had a chance to test it out yet. Feel free to open an issue and let me know either way. :)
+I have added an experimental build of 0.37.0, but I have only done minimal testing with it. Please let me know if there are any issues using it!
 
 ## About
 
