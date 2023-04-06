@@ -1,5 +1,9 @@
 # bitsandbytes-prebuilt-all_arch
 
+## Update (4/6/23)
+
+Apologies for the inactivity, I have been incredibly busy! I expect things to wind down by the end of the month, at which point I plan to resume updates.
+
 ## Update (2/3/23)
 
 I have added an experimental build of 0.37.0. I didn't notice any apparent regressions in testing, but let me know if you run into any issues. :)
